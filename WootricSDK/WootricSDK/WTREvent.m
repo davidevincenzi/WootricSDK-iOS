@@ -24,7 +24,7 @@
 
 #import "WTREvent.h"
 #import "WTRApiClient.h"
-#import "Public/WTRLogger.h"
+#import "WTRLogger.h"
 
 @interface WTREvent ()
 

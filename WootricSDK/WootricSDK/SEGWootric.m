@@ -22,8 +22,8 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 
-#import "Public/SEGWootric.h"
-#import "Public/Wootric.h"
+#import "SEGWootric.h"
+#import "Wootric.h"
 
 @implementation SEGWootric
 

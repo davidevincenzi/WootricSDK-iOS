@@ -25,7 +25,7 @@
 #import "WTRApiClient.h"
 #import "WTRPropertiesParser.h"
 #import "WTRUtils.h"
-#import "Public/WTRLogger.h"
+#import "WTRLogger.h"
 #import <CommonCrypto/CommonHMAC.h>
 
 static NSString *const WTRSamplingRule = @"Wootric Sampling Rule";
