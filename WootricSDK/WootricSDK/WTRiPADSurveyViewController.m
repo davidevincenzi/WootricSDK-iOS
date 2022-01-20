@@ -29,13 +29,13 @@
 #import "WTRiPADThankYouButton.h"
 #import "WTRColor.h"
 #import "WTRSurvey.h"
-#import "WTRLogger.h"
+#import "Public/WTRLogger.h"
 #import "WTRApiClient.h"
 #import "WTRUtils.h"
 #import "NSString+FontAwesome.h"
 #import "WTRDefaultNotificationCenter.h"
-#import "Wootric.h"
-#import "WTRSurveyDelegate.h"
+#import "Public/Wootric.h"
+#import "Public/WTRSurveyDelegate.h"
 #import <Social/Social.h>
 
 @interface WTRiPADSurveyViewController ()

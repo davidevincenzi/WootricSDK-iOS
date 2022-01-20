@@ -25,7 +25,7 @@
 #import "WTRSurvey.h"
 #import "WTRApiClient.h"
 #import "WTRDefaults.h"
-#import "WTRLogger.h"
+#import "Public/WTRLogger.h"
 #import "WTREvent.h"
 #import "WTREventListOperation.h"
 #import "UIItems.h"

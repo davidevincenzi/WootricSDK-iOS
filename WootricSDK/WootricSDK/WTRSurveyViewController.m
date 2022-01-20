@@ -29,12 +29,12 @@
 #import "UIImage+ImageFromColor.h"
 #import "WTRSurvey.h"
 #import "WTRThankYouButton.h"
-#import "WTRLogger.h"
+#import "Public/WTRLogger.h"
 #import "WTRApiClient.h"
 #import "WTRUtils.h"
 #import "NSString+FontAwesome.h"
-#import "Wootric.h"
-#import "WTRSurveyDelegate.h"
+#import "Public/Wootric.h"
+#import "Public/WTRSurveyDelegate.h"
 #import <Social/Social.h>
 
 @interface WTRSurveyViewController ()

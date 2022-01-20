@@ -22,13 +22,13 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 
-#import "Wootric.h"
+#import "Public/Wootric.h"
 #import "WTRSurvey.h"
 #import "WTRSurveyViewController.h"
 #import "WTRDefaultNotificationCenter.h"
 #import "WTRiPADSurveyViewController.h"
-#import "WTRLogger.h"
-#import "WTRSurveyDelegate.h"
+#import "Public/WTRLogger.h"
+#import "Public/WTRSurveyDelegate.h"
 
 #define IPAD UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad
 
